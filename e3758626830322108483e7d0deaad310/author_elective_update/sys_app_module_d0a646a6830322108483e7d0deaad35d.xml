@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="EliteCare ">0ca6c6a2830322108483e7d0deaad347</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1785664_elitecar_basic</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 04:11:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0a646a6830322108483e7d0deaad35d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EliteCare " source="x_1785664_elitecar">e3758626830322108483e7d0deaad310</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EliteCare ">e3758626830322108483e7d0deaad310</sys_scope>
+        <sys_update_name>sys_app_module_d0a646a6830322108483e7d0deaad35d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 04:11:22</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EliteCare ">e3758626830322108483e7d0deaad310</application>
+        <file_path/>
+        <instance_id>50b3e55e1b6a3ddcc84543f4bd4bcb41</instance_id>
+        <instance_name>dev216439</instance_name>
+        <name>sys_app_module_d0a646a6830322108483e7d0deaad35d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="EliteCare ">0ca6c6a2830322108483e7d0deaad347</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1785664_elitecar_basic</name><order>3</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-02 04:11:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d0a646a6830322108483e7d0deaad35d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="EliteCare " source="x_1785664_elitecar">e3758626830322108483e7d0deaad310</sys_package><sys_policy/><sys_scope display_value="EliteCare ">e3758626830322108483e7d0deaad310</sys_scope><sys_update_name>sys_app_module_d0a646a6830322108483e7d0deaad35d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-02 04:11:22</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-199929447</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>2f758626830322108483e7d0deaad314</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 04:11:22</sys_created_on>
+        <sys_id>50a646a6830322108483e7d0deaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19868fa2b230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 04:11:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>54a646a679032210e128d57729a8f35e</update_guid>
+        <update_guid_history>54a646a679032210e128d57729a8f35e:-199929447</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">6738c2a6830322108483e7d0deaad340</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-02 04:18:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>086b914f98644a408065867c41355e90</sys_id>
+        <sys_metadata>d0a646a6830322108483e7d0deaad35d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="EliteCare " source="x_1785664_elitecar">e3758626830322108483e7d0deaad310</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EliteCare ">e3758626830322108483e7d0deaad310</sys_scope>
+        <sys_scope_delete display_value="">552e022cf5154d38a126347093a367d9</sys_scope_delete>
+        <sys_update_name>sys_app_module_d0a646a6830322108483e7d0deaad35d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d0a646a6830322108483e7d0deaad35d">50a646a6830322108483e7d0deaad35f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-02 04:18:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

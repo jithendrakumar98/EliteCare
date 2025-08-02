@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="598682a6830322108483e7d0deaad32d" label="Basic" max_length="40" name="x_1785664_elitecar_basic" type="collection">
+        <element label="Age" mandatory="true" max_length="40" name="age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>
